@@ -42,3 +42,37 @@ The survey was implemented in [\_magpie](https://magpie-ea.github.io/magpie-site
 
 ---
 # Example Sentences
+
+## LSTMLM
+* elizabeth warren suggests trump would win the u.s through congress, whereas president trump by his <NUM> th year race as he staged a century.
+* unable to read live in recent times, china is not long term.
+* please note that radio <NUM> had a site of panic and pre recorded surveillance books in the afternoon little body.
+* and in san diego that may have been trumps remarks after a bitter short tournament.
+* government employees, women and organisations have been focused on improving care and role to ensure guests be held responsible for their personal data.
+
+## GSGAN
+* should multi billion dollar corporations zero emissions by <NUM>?
+* the mother of a girl next to her was pushed too hard.
+* labour responded that they should not vote by the snp, then we would need to get brexit done.
+* but another west london, royal republic, won <NUM> european international womens semi finals
+* our future brexit will turn us once again, he said during his three day visit.
+
+## GPT-2 Small
+* when the new government started being introduced in october, there was no such thing as a result that could ever take place.
+* some lawmakers are going to move forward in the next phase of the senate in a week, as congress does.
+* she said: it did not feel right and i did not want this to be happening at all.
+* however, he was left with a six year old who left with the job over £ <NUM>.
+
+## cVAELM
+* ministers way.
+* twitter will you fell aside an additional public supply chain of women if
+* nothing every divided on february on me on, but we for.
+* it once certainly normally neither this all their scores remain on.
+* professional annually.
+
+## LaTextGAN
+* thirds he need kong he rt.com lanka rt.com lanka rt.com lanka rt.com lanka rt.com lanka rt.com lanka rt.com lanka rt.com lanka rt.com lanka rt.com lanka rt.com lanka rt.com lanka
+* dow is not united do well in europe, but will be an interview.
+* rt.com rt.com just angeles rt.com feel angeles thrones am angeles have knew the people, in that <NUM> am not on <NUM> <NUM>.
+* there two do in trump and an emergency and go on an emergency services to <NUM> %.
+* $ president a need to <NUM> and no deal to climate change u.s border on monday.

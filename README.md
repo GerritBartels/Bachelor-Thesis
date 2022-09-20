@@ -23,9 +23,9 @@ As dataset for training all models we used a monolingual news crawl from the Fif
 
 ---
 # Evaluation Methods
-To assess the capabilities of our models in unconditional text generation, we employed methods that evaluate the model outputs with respect to sentence diversity and quality, as well as whether the underlying data distribution was captured. We also conducted a survey to get an additional angle at judging model performance.
+To assess the capabilities of our models in unconditional text generation, we employed methods that evaluate the model outputs with respect to sentence diversity and quality, as well as how well the underlying data distribution was captured. We also conducted a survey to get an additional angle at judging model performance.
 
-The survey was implemented in [\_magpie](https://magpie-ea.github.io/magpie-site/), a minimal architecture for generating portable interactive experiments and made available as a web-based online survey through the hosting service Netlify. We defined two tasks to elicit judgments about the overall quality of generation and the participants' likelihood of detecting whether a sentence was artificially generated.
+The survey was implemented in [\_magpie](https://magpie-ea.github.io/magpie-site/), a minimal architecture for generating portable interactive experiments and made available as a web-based online survey through the hosting service Netlify. We defined two tasks to elicit judgments about the overall quality of generation (Likert-scale rating) and the participants' likelihood of detecting whether a sentence was artificially generated (2-alternative forced-choice task).
 
 ---
 # Results

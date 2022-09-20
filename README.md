@@ -13,6 +13,7 @@ As dataset for training all models we used a monolingual news crawl from the Fif
 ## LSTMLM
 
 ## GSGAN
+![GSGAN Architecture](https://github.com/GerritBartels/Bachelor-Thesis/blob/main/Architecture%20Visualizations/LSTMLM_transparent.png?raw=true)
 
 ## GPT-2 Small
 

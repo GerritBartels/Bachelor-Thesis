@@ -51,6 +51,14 @@ The survey was implemented in [\_magpie](https://magpie-ea.github.io/magpie-site
 
 Results of the automatic evaluation methods applied to all models and, for reference, to the test data itself. The best results are highlighted in **bold**.
 
+|                               | LSTM<br>LM | cVAE<br>LM | GS<br>GAN | LaText<br>GAN | GPT-2<br>Small | Real <br>Data |
+|:-----------------------------:|:----------:|:----------:|:---------:|:-------------:|:--------------:|:-------------:|
+| **Average<br>Fluency Rating** |  _3.0704_  |  _1.9296_  |  _3.1861_ |    _1.704_    |  **_3.9025_**  |    _4.3948_   |
+|   **Confusion Rate<br>in %**  |   _23.81_  |   _9.93_   |  _20.37_  |     _9.03_    |   **_29.82_**  |      _-_      |
+
+Results of the human evaluation applied to all models and, for reference, to the
+test data itself. The best results are highlighted in **bold**.
+
 ---
 # Example Sentences
 

@@ -39,6 +39,17 @@ The survey was implemented in [\_magpie](https://magpie-ea.github.io/magpie-site
 ---
 # Results
 
+|                                 |  LSTM<br>LM |  cVAE<br>LM  |   GS<br>GAN  | LaText<br>GAN | GPT-2<br>Small | Real <br>Data |
+|:-------------------------------:|:-----------:|:------------:|:------------:|:-------------:|:--------------:|:-------------:|
+|    **Average<br>Sent Length**   | **_16.83_** |    _12.91_   |    _16.89_   |    _18.06_    |     _17.25_    |    _16.66_    |
+| **JS Distance <br>Sent Length** |   _0.1471_  |   _0.4334_   |   _0.1677_   |    _0.3487_   |  **_0.1206_**  |    _0.0205_   |
+| **JS Distance<br>Token Counts** |   _0.1441_  |   _0.2963_   | **_0.1437_** |    _0.5111_   |    _0.2444_    |    _0.1286_   |
+| **Top 12<br>Token Overlap**     | **_12/12_** |    _10/12_   |  **_12/12_** |     _7/12_    |     _11/12_    |    _12/12_    |
+| **Test BLEU-4**                 |   _0.3136_  |   _0.0544_   |   _0.3258_   |    _0.2563_   |  **_0.4536_**  |    _0.3301_   |
+| **Self BLEU-4**                 |   _0.3235_  | **_0.0904_** |   _0.3463_   |    _0.6746_   |    _0.5374_    |    _0.3282_   |
+| **FID**                         |   _0.369_   |    0.9932    | **_0.3606_** |    _1.9926_   |    _0.7368_    |    _0.3456_   |
+
+Results of the automatic evaluation methods applied to all models and, for reference, to the test data itself. The best results are highlighted in **bold**.
 
 ---
 # Example Sentences

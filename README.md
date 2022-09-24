@@ -11,16 +11,19 @@ As dataset for training all models we used a monolingual news crawl from the Fif
 # Models
 
 ## LSTMLM
+<img src="https://github.com/GerritBartels/Bachelor-Thesis/blob/main/Architecture%20Visualizations/LSTMLM.png" width="500" />
 
 ## GSGAN
-![GSGAN Architecture](https://github.com/GerritBartels/Bachelor-Thesis/blob/main/Architecture%20Visualizations/LSTMLM_transparent.png?raw=true)
+<img src="https://github.com/GerritBartels/Bachelor-Thesis/blob/main/Architecture%20Visualizations/GSGAN.png" width="500" />
 
 ## GPT-2 Small
+<img src="https://github.com/GerritBartels/Bachelor-Thesis/blob/main/Architecture%20Visualizations/GPT2_Small.png" height="500" />
 
 ## cVAELM
+<img src="https://github.com/GerritBartels/Bachelor-Thesis/blob/main/Architecture%20Visualizations/cVAELM.png" width="500" />
 
 ## LaTextGAN
-
+<img src="https://github.com/GerritBartels/Bachelor-Thesis/blob/main/Architecture%20Visualizations/LatextGAN.png" width="500" />
 
 ---
 # Evaluation Methods
